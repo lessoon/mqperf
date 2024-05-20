@@ -29,4 +29,10 @@ List of archived Performance documents:
 
 [MQ for z/OS v9.0 Performance Report](https://github.com/ibm-messaging/mqperf/blob/gh-pages/archive/mp1k.pdf)
 
+[MQ for z/OS v9.0.1 Performance Report](https://github.com/ibm-messaging/mqperf/blob/gh-pages/archive/V901.pdf)
+
 [MQ for z/OS v910 Performance Report](https://github.com/ibm-messaging/mqperf/blob/gh-pages/archive/MQ%20for%20zOS%20V910%20Performance.pdf)
+
+[MQ for z/OS v913 Performance Report](https://github.com/ibm-messaging/mqperf/blob/gh-pages/archive/V913%20AMS%20Interception%20on%20server-server%20message%20channels.pdf)
+
+
