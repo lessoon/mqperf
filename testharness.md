@@ -24,9 +24,9 @@ JMeter can also be used with MQ (though we recommend CPH or JMSTestHarness above
 There is also a tool for testing your IO performance (in the manner in which MQ writes) called [MQLDT](https://github.com/ibm-messaging/mqldt) (MQ Log Disk Tester).
 
 This also now has a containerized version available here [mqldt-c](https://github.com/ibm-messaging/mqldt-c) and the automatically built
-image is available from docker hub at [https://hub.docker.com/repository/docker/stmassey/mqldt](https://hub.docker.com/repository/docker/stmassey/mqldt). This image can be easily obtained by:
+image is available from docker hub at [quay.io/stmassey/mqldt](quay.io/stmassey/mqldt). This image can be easily obtained by:
 ```
-docker pull stmassey/mqldt
+podman pull quay.io/stmassey/mqldt
 ```
 
 
