@@ -57,6 +57,7 @@ For reports on versions of distributed MQ prior to V9.1 go to the MQ SupportPac 
 - IBM MQ V9.2 for Linux (x86-64 platform) Performance Report: [MQ_V9.2_Performance_Report_xLinux.pdf](./MQ_V9.2_Performance_Report_xLinux.pdf)
 - IBM MQ V9.3 for Linux (x86-64 platform) Performance Report (version 2 -  Nov 2023): [MQ_V9.3_Performance_Report_xLinux_v2.pdf](./MQ_V9.3_Performance_Report_xLinux_v2.pdf)
 - IBM MQ V9.4 for Linux (x86-64 platform) Performance Report (version 1 -  Sep 2024): [MQ_V9.4_Performance_Report_xLinux_v1.0.pdf](./MQ_V9.4_Performance_Report_xLinux_v1.0.pdf)
+- IBM MQ V9.4 for Windows (Windows Server 2022 on x86-64) Performance Report (version 1 -  Dec 2024): [MQ_V9.4_Performance_Report_windows.pdf](./MQ_V9.4_Performance_Report_windows.pdf)
 
 #### AMS
 
