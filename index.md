@@ -95,6 +95,14 @@ Performance report on streaming queues, introduced in MQ V9.2.3, including a com
 The following document describes the strategies and results from attempts to maximise messaging throughput rate in single/low threaded scenarios.
 [Maximising single threaded messaging rate](./MaximisingSingleThreadMessagingRate.pdf)
 
+#### Implict Syncpoints
+The following document describes the impact of the use of implicit syncpoints for persistent messages.
+[Implicit Syncpoints](./Implicit-syncpointing-for-persistent-messages-put-outside-of-syncpoint.pdf)
+
+#### Logger enhancements
+The following document describes logger enhancements made in MQ V9.0.2 and V9.1.
+[Logger Enhancements](./Logger-enhancements-for-MQ-v9.0.2-and-v9.1.pdf)
+
 ### MQ on OpenShift
 MQ is now available as part of the Cloud Pak for Integration (CP4I) available on the OpenShift platform. Whitepapers exploring the performance of MQ in that environment will be published shortly. These will be consumable reports that investigate a particular scenario; choose the most appropriate report to assist you in your sizing process.
 
